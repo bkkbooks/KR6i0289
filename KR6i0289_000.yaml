@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0289/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說諸法本無經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0651.xml
+    old_id: T15n0651
+hash: sha256:d78c5044764d5aaabee2aa64bfa02792305f592897a54275b1fd06ec4b01d189

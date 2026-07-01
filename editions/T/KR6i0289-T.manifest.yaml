@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6i0289/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0289/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說諸法本無經
+  identifiers:
+    krp: KR6i0289
+    cbeta: T15n0651
+    cbeta_old_id: T15n0651
+    authorityid: CA0004123
+    json_key: T0651
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0651.xml
+    old_id: T15n0651
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0289_000-T.yaml, hash: 'sha256:d78c5044764d5aaabee2aa64bfa02792305f592897a54275b1fd06ec4b01d189'}
+  - {seq: 1, filename: KR6i0289_001-T.yaml, hash: 'sha256:9b98c820a379ece1ff528c639021fd1fafa234da4e79720af772a58c31ecf1c8'}
+  - {seq: 2, filename: KR6i0289_002-T.yaml, hash: 'sha256:018bfed648ed7b310981f007c51bc1b64fc2e7962759f825edfc992616c6c371'}
+  - {seq: 3, filename: KR6i0289_003-T.yaml, hash: 'sha256:1c5f5d0b547b2f80e0f72d8c101c121a95ea29d15f80f197a55ee3ef52ffcc16'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0289_000-T.markers.yaml, hash: 'sha256:5aa2ec5df1dc4205b4a6c2f27e03f521e7fc8408d1b4e71615a8634e42ed50a7'}
+  - {seq: 1, role: markers, filename: assets/KR6i0289_001-T.markers.yaml, hash: 'sha256:d59175833ad796a4148702e5f8ca67ccd5dc298ba0297eb6299e7ba38e72f81d'}
+  - {seq: 2, role: markers, filename: assets/KR6i0289_002-T.markers.yaml, hash: 'sha256:d25df5f8123e0c14d38a922c6e6d4e692264644b7f28ba6cf6fe1eaba69de07f'}
+  - {seq: 3, role: markers, filename: assets/KR6i0289_003-T.markers.yaml, hash: 'sha256:e2078135099b8717e2c2caa8cc95765abe4578ae6c7ff0f4014f5b87f522d47f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0289_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4884
+  label: 佛說諸法本無經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0289_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4452
+  label: 佛說諸法本無經卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0289_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7572
+  label: 佛說諸法本無經卷下
+  type: juan
+  level: 1
+hash: sha256:d6dfe29619b2197212726746299c1c746720a8ad4e0250b838ba489780a932a8
