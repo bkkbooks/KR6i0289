@@ -37,13 +37,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0289_000.yaml, hash: 'sha256:d78c5044764d5aaabee2aa64bfa02792305f592897a54275b1fd06ec4b01d189'}
-  - {seq: 1, filename: KR6i0289_001.yaml, hash: 'sha256:3c67c5eab3e1079384bbf70af2fa9d97910b4b8161a98786d43a67a4d96fa667'}
-  - {seq: 2, filename: KR6i0289_002.yaml, hash: 'sha256:a61d57f2c3409aca4c0abed50f48cab3cd05e2e60235f7f6e4a1e44a049f1ce9'}
-  - {seq: 3, filename: KR6i0289_003.yaml, hash: 'sha256:752670bab8d728a7582ce9a7bf91f2f8491d97fc25168f660146fa9978cb4d71'}
+  - {seq: 1, filename: KR6i0289_001.yaml, hash: 'sha256:9b98c820a379ece1ff528c639021fd1fafa234da4e79720af772a58c31ecf1c8'}
+  - {seq: 2, filename: KR6i0289_002.yaml, hash: 'sha256:018bfed648ed7b310981f007c51bc1b64fc2e7962759f825edfc992616c6c371'}
+  - {seq: 3, filename: KR6i0289_003.yaml, hash: 'sha256:1c5f5d0b547b2f80e0f72d8c101c121a95ea29d15f80f197a55ee3ef52ffcc16'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0289_001.markers.yaml, hash: 'sha256:6d01746c2d478eb1909b8ca70953f1d4e8394b1dab2bbcd01fab83e861889ceb'}
-  - {seq: 2, role: markers, filename: assets/KR6i0289_002.markers.yaml, hash: 'sha256:0f602ddac0d2a733f15305a11f250be564060656335618b508936c319f1aab1c'}
-  - {seq: 3, role: markers, filename: assets/KR6i0289_003.markers.yaml, hash: 'sha256:ad92185faa1efe48662136a78a6c3dba83de5fed6e1dd3ac3f6c8004c28b7358'}
+  - {seq: 0, role: markers, filename: assets/KR6i0289_000.markers.yaml, hash: 'sha256:e9188c7e92abc10a79b57c4f4d1009fc66048311b301f699ad27da15fc7049ce'}
+  - {seq: 1, role: markers, filename: assets/KR6i0289_001.markers.yaml, hash: 'sha256:7e49a4cf41286bb423e2caedbc0b9d218fa4ec501f809acccf68b394a362f89b'}
+  - {seq: 2, role: markers, filename: assets/KR6i0289_002.markers.yaml, hash: 'sha256:f36dfb223b0ed85719750ffbd21a0fb7f69324d48204fb73a7cb833abcf37a17'}
+  - {seq: 3, role: markers, filename: assets/KR6i0289_003.markers.yaml, hash: 'sha256:70d58337c6a0e486db9ccf1e26354daab4b5318886315d2e8c353d001ed58454'}
 table_of_contents:
 - ref:
     seq: 1
@@ -75,7 +76,4 @@ table_of_contents:
   label: 佛說諸法本無經卷下
   type: juan
   level: 1
-hash: sha256:a9cd4905a7fb21883d2c62481eabc044f45def7be93782f21d52a6bec6913b33
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6b8aaa6350ceb7dcfe62117597b79ad4ef7b900a15a71da0c819360b61369a15
